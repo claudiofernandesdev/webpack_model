@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;AAAA;AACA;AACA;AACAA,OAAO,CAACC,GAAG,CAAC,mCAAmC,CAAC,C","sources":["webpack://webpackboilerplate/./src/index.js"],"sourcesContent":["// linha 01\n// linha 02\n// linha 03\nconsole.log('Hellooooooooooooooooooooooooooooo')"],"names":["console","log"],"sourceRoot":""}
